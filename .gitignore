@@ -1,0 +1,12 @@
+_site
+.sass-cache
+
+
+# ignore temp files w/ trailing ~
+*~
+
+# ignore hidden files
+.*
+
+# don't ignore the .gitignore file
+!.gitignore

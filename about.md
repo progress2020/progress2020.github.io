@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/octojekyll.png" caption="Octojekyll." width=300 align="right" %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit mattis nulla eu cursus. Fusce finibus, orci sit amet tincidunt fermentum, risus ante pharetra nisi, eget tempus tellus tellus ut est. Nunc tempus cursus arcu mattis ultricies. Cras volutpat purus et lectus facilisis tempor. Suspendisse at lorem feugiat, feugiat massa vel, scelerisque dolor. Proin justo nisl, mattis eu sapien in, efficitur fringilla nulla. Phasellus placerat, lacus in venenatis tristique, risus dolor eleifend felis, vitae finibus augue nibh ut libero. Morbi sit amet tincidunt lorem.
 
+Are you a non-profit or lawyer working with populations targeted by the Trump administration? We're a community of lawyers, scholars, and researchers willing to help you with research and analysis for your clients and organizations. Please tell us more about your needs, and we'll try to match you with a volunteer.
+
+{% include image.html url="/images/womens-march-washington.jpg" caption="PHOTO: Demonstrators protest on the National Mall in Washington, D.C." width=800 align="center" %}
